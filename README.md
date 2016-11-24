@@ -43,12 +43,17 @@
 ## What should be part of your solution?
 * The solution should be delivered as a collection (or single) of HTML pages / application with all the required CSS and JavaScript files.
 * Any other documentation needed to execute your solution
+* SQL Server scripts to create the database and other database objects required by the solution
+* Any other documentation needed to execute your solution
 
 ## How will the technical assessment be evaluated?
 * The code will evaluated for clarity, design and readability.
 * If any tests are part of the submitted solution, the tests will be run the test the solution. The tests will be evaluated to verify the quality of the tests.
 * The solution will be opened in the Chrome browser and the functionality described above will be tests. Both positive and negative tests will be done against the solution.
 * Responsive layouts will be simulated using Chrome's developer tools.
+* The database scripts provided will be run against a local SQL Server database (we'll update the connection string to point to the appropriate database)
+* The solution will be installed in IIS
+* The two endpoints will be invoked, using Postman (https://www.getpostman.com/) to test the results returned. Both positive and negative tests will be executed
 
 ## How do I submit my solution?
 Send a pull request from your repository.
