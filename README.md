@@ -27,12 +27,12 @@
 * Using the Geo information from this, collect photos from Instagram for this/these locations
 * Save the image URL and relevant information (Description etc) into a database.
 * Ensure that if the task is run more than once, no duplicates are added to the database.
- 
+
 ##2. The Frontend
 * Display the results from the database in a responsive manner (If using HTML output).
 * Search the database for images based on the fields you have chosen to save with the image URLs
 * Paginate the results limiting results to 10 per page.
- 
+
 ##3. Bonus
 * Instead of hard coding the locations in the script/task file, try using the database to store a list of locations.
 * To go even further, use a basic authentication:
