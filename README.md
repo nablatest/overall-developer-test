@@ -1,13 +1,24 @@
-# overall-developer-test
+# Technical assessment for backend and frontend developer
 
-Complete front-end/back-end test. This assessment will test the candidate's ability and resourcefulness 
+## The purpose of the assessment is to test your ability:
+### Backend
+* to deliver a web API to be consumed by external systems
+* design a SQL Server database
+* integration with other external APIs
+### Frontend 
+* build a front end using HTML and CSS using responsive design
+* use JavaScript efficiently
+* integration with external APIs using JavaScript
 
 
-* This test has two parts:
-            1 - A backend (solution including sql Scripts, RESTful API interface using JSON as the output method)
-            2 - A frontend. (Using either HTML/CSS/Javascript & Bootstrap or an mvc application)
-             
-1: The Backend
+## Please use the following tools as part of your solution:
+* HTML(5)
+* CSS(3) and/or Bootstrap
+* JavaScript, jQuery, EmberJS, AngularJS, Knockout
+
+
+
+##1: The Backend
 * Using a Four Square library, hard code into the script a location/s.
 * Using the Geo information from this, collect photos from Instagram for this/these locations
 * Save the image URL and relevant information (Description etc) into a database.
