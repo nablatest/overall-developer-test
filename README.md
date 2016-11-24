@@ -36,8 +36,8 @@
 ##3. Bonus
 * Instead of hard coding the locations in the script/task file, try using the database to store a list of locations.
 * To go even further, use a basic authentication:
-            *- Allow users to create accounts and login.
-            *- Allow users to edit a list of locations and then display and search only images from that users location list
+  * Allow users to create accounts and login.
+  * Allow users to edit a list of locations and then display and search only images from that users location list
 * Try using a javascript based search (if using HTML output)
 * Try using whatever template or custom javascript libraries you like to wow us all (if using HTML output)
 
