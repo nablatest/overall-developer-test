@@ -41,13 +41,12 @@
 * Try using a javascript based search (if using HTML output)
 * Try using whatever template or custom javascript libraries you like to wow us all (if using HTML output)
 
-* ***This part of the assessment is not applicable for the junior developer role.***
-* ```/artist/6c44e9c22-ef82-4a77-9bcd-af6c958446d6/albums``` will return the first 10 albums from Mumford & Sons.
-* The response should contain the following information either in JSON or XML
-  * Release Id
-  * Title of release
-  * Status release
-  * Label which released the release
-  * Number of tracks on the release
-  * List of artist collabrating on the release
-* The return data in JSON format should look as follows (if XML is used, the same structure should be used):
+
+* ***3. Bonus***
+  * Instead of hard coding the locations in the script/task file, try using the database to store a list of locations.
+  * To go even further, use a basic authentication:
+    * Allow users to create accounts and login.
+    * Allow users to edit a list of locations and then display and search only images from that users location list
+  * Try using a javascript based search (if using HTML output)
+  * Try using whatever template or custom javascript libraries you like to wow us all (if using HTML output)
+
