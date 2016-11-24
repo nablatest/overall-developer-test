@@ -21,7 +21,7 @@
 * CSS(3) and/or Bootstrap
 * JavaScript, jQuery, EmberJS, AngularJS, Knockout
 
-* ***1. The Backend
+* ***1. The Backend***
   * Using a Four Square library, hard code into the script a location/s.
   * Using the Geo information from this, collect photos from Instagram for this/these locations
   * Save the image URL and relevant information (Description etc) into a database.
