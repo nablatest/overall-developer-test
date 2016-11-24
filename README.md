@@ -1,6 +1,6 @@
 # Technical assessment for backend and frontend developer
 
-## The purpose of the assessment is to test your ability:
+## The purpose of the assessment is to test your ability and resourcefulness to complete a task no documentation is provided:
 
 ### Backend
 * to deliver a web API to be consumed by external systems
@@ -40,3 +40,18 @@
   * Try using a javascript based search (if using HTML output)
   * Try using whatever template or custom javascript libraries you like to wow us all (if using HTML output)
 
+## What should be part of your solution?
+* The solution should be delivered as a collection (or single) of HTML pages / application with all the required CSS and JavaScript files.
+* Any other documentation needed to execute your solution
+
+## How will the technical assessment be evaluated?
+* The code will evaluated for clarity, design and readability.
+* If any tests are part of the submitted solution, the tests will be run the test the solution. The tests will be evaluated to verify the quality of the tests.
+* The solution will be opened in the Chrome browser and the functionality described above will be tests. Both positive and negative tests will be done against the solution.
+* Responsive layouts will be simulated using Chrome's developer tools.
+
+## How do I submit my solution?
+Send a pull request from your repository.
+
+## Questions or comments
+Please use the issues functionality on Github. All questions will be answered via Github.
